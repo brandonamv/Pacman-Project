@@ -12,6 +12,7 @@ public class Pacman {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //Comentarios de prueba
     }
     
 }
